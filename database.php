@@ -1,6 +1,6 @@
 <?php
 
-$server = "localhost";
+$server = "127.0.0.1";
 $username = "backgrounds";
 $password = "backgrounds";
 $database = "backgrounds";

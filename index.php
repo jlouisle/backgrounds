@@ -2,6 +2,10 @@
 require 'database.php';
 ?>
 
+<a href="songs.php">
+  Add songs
+</a>
+
 <form method="post">
   <input type="text" name="new_service_name">
   <input type="submit" name="save_new_service" value="add new service">
